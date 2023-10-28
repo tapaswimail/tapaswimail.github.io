@@ -1,6 +1,7 @@
 # :office_worker:About me 
 Hi, I'm **Joydeep Tapaswi**. I am an **aspiring data analyst**. Learning lots about past , present and futures of data from the scratch. I,live in Kolkata, India and Works as an MIS associate in a Govt. office. 
-**Wants to switch carreer.** I have recently completed **"Google Data Analytics Professional Certificate"**
+**Wants to switch carreer.** I have recently completed **"Google Data Analytics Professional Certificate"** 
+![Alt Text](https://github.com/tapaswimail/tapaswimail.github.io/blob/fc6fc3502ccfc20a959bfda2cde13881307bdaff/google-data-analytics-badge2.png)
 
 ## ➡️:[tapaswimail.github.io](https://tapaswimail.github.io)
 This the portfolio website of Joydeep Tapaswi
