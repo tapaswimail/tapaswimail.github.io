@@ -6,8 +6,8 @@ Hi, I'm **Joydeep Tapaswi**. I am an **aspiring data analyst**. Learning lots ab
 
 <!--## ➡️:[tapaswimail.github.io](https://tapaswimail.github.io)-->
 <!--This the portfolio website of Joydeep Tapaswi-->
-<!--In this portfolio website I am going to host links of my Data Analysis Journey.-->
-<!--The Topics of my portfolio will be like this.-->
+<!--In this portfolio website I am going to host links of my Data Analysis Journey. -->
+<!--The Topics of my portfolio will be like this. -->
 
 <details open>
 <summary>Begineer level projects</summary>
