@@ -8,25 +8,13 @@ Hi, I'm **Joydeep Tapaswi**. I am an **aspiring data analyst**. Learning lots ab
 This the portfolio website of Joydeep Tapaswi
 In this portfolio website I am going to host links of my Data Analysis Journey.
 The Topics of my portfolio will be like this.
-<details open>
-<summary>Basics</summary>
-  
-  * _Creating Histogram in Google sheet_
-  
-  * _Creating Box Plot in Google sheet_
-  
-  * _More statistical stuff_
-  
-  * _Stuff related to probability etc_
-  
-</details>
 
 <details open>
 <summary>Begineer level projects</summary>
   
   * [My First Complete Tableau Dashboard](https://public.tableau.com/views/HousingPrice_16984303363310/KingCountyHouseSales?:language=en-US&:display_count=n&:origin=viz_share_link)
   
-  * _Another begineer level projects_
+  * [My First Data Cleaning Mini Project in R](http://rpubs.com/tapaswimail/Fifa21)
   
   * _Another begineer level projects_
   
