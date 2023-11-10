@@ -4,8 +4,8 @@ Hi, I'm **Joydeep Tapaswi**. I am an **aspiring data analyst**. Learning lots ab
 
 ![Alt Text](https://github.com/tapaswimail/tapaswimail.github.io/blob/fc6fc3502ccfc20a959bfda2cde13881307bdaff/google-data-analytics-badge2.png)
 
-## ➡️:[tapaswimail.github.io](https://tapaswimail.github.io)
-This the portfolio website of Joydeep Tapaswi
+<!--## ➡️:[tapaswimail.github.io](https://tapaswimail.github.io)-->
+<!--This the portfolio website of Joydeep Tapaswi-->
 In this portfolio website I am going to host links of my Data Analysis Journey.
 The Topics of my portfolio will be like this.
 
